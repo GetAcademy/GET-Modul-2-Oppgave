@@ -1,0 +1,12 @@
+.dev-tools {
+    position: absolute;
+    top: 1rem;
+    left: 1.5rem;
+}
+
+.dev-tools-textarea {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    backdrop-filter: blur(4px);
+    font-size: 0.8rem;
+}
